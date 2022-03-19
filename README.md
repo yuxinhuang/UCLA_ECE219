@@ -17,3 +17,12 @@ Reminder: Question 8 would cost several hours to run
 ## Project2
 
 To run our code, open it in jupyter notebook and "run all"
+
+## Project3
+
+To run our code, open it in jupyter notebook and "run all"
+
+## Project4
+
+To run our code, open it in jupyter notebook and "run all"
+Reminder:  Neural Network part would cost several hours to run
